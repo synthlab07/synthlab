@@ -1,7 +1,6 @@
 com/synthlab/synthlab_api/Services/AuthService.class
 com/synthlab/synthlab_api/Repositories/UsuarioAvatarRepository.class
 com/synthlab/synthlab_api/Services/LeccionService.class
-com/synthlab/synthlab_api/DTOs/UserInfoDTO.class
 com/synthlab/synthlab_api/Entities/Leccion.class
 com/synthlab/synthlab_api/Security/JwtFilter.class
 com/synthlab/synthlab_api/Services/UsuarioAvatarService.class
